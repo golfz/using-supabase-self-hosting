@@ -6,7 +6,6 @@
 2. [Docker](https://docs.docker.com/engine/install/)
 3. [Docker Compose](https://docs.docker.com/compose/install/)
 
----
 
 ## (1) การติดตั้ง Git
 
@@ -44,7 +43,6 @@ apt-get install git
 brew install git
 ```
 
----
 
 ## (2) การติดตั้ง Docker
 
@@ -100,7 +98,6 @@ docker --version
 
 - ติดตั้งตามขั้นตอนนี้ [Install Docker Desktop on Mac](https://docs.docker.com/desktop/install/mac-install/)
 
----
 
 ## (3) การติดตั้ง docker-compose
 
@@ -136,7 +133,6 @@ chmod 666 /var/run/docker.sock
 docker-compose --version
 ```
 
----
 
 ## (4) ติดตั้งและรัน Supabase แบบ Self-Hosting
 
@@ -166,7 +162,6 @@ docker-compose up
 
 5. เข้าไปใช้งาน Supabase ที่ http://localhost:3000
 
----
 
 ## (เพิ่มเติม) เพิ่มความปลอดภัยให้กับการติดตั้ง
 
